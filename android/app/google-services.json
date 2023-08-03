@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331796268559",
+    "project_id": "eazymart-87519",
+    "storage_bucket": "eazymart-87519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331796268559:android:dbd267cd7bdcc42c65857a",
+        "android_client_info": {
+          "package_name": "com.example.easymart_shreejan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331796268559-1v0fth24r32b1623rr076j1d0sfngqe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB55J8fwN48VHbSB1v2IQQU2U5v_ESGhis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331796268559-1v0fth24r32b1623rr076j1d0sfngqe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
